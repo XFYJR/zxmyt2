@@ -358,7 +358,7 @@
             "ext": "https://dxawi.github.io/1/json/xx5.json"
         }
     ],
-"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","cntv","CNTV","XIGUA","letv","leshi","LS","乐视","西瓜","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"]
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","cntv","CNTV","XIGUA","letv","leshi","LS","乐视","西瓜","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 "parses": [
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
