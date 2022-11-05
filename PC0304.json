@@ -1,7 +1,7 @@
 {
   "spider":"./jar/spider.jar",
   "wallpaper": "https://tool.weetai.cn/api",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGluZ3FpMjAwOS9RSkYyL21haW4vVFYudHh0"]}]}],  
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
   "sites": [ 
         {
             "key" : "csp_CZSPP",
