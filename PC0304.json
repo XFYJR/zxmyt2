@@ -274,7 +274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "c3722a3549d9407780e9eff2fbe4503d"
         },
         {
             "key": "Upyunso",
@@ -294,7 +294,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "c3722a3549d9407780e9eff2fbe4503d"
         }, 
         {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"69ddb8566b0f4cfb965278be2d6abd94"},
 
