@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/spider.jar",
+  "spider":"./jar/spider.jar;md5;92a249fa8ba330d1e4d3fd2117f180e6",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
   "sites": [ 
