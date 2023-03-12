@@ -1,0 +1,372 @@
+{
+  "spider":"./jar/spider.jar",
+  "wallpaper": "https://tool.weetai.cn/api",
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
+  "sites": [ 
+       
+            {
+            "key":"csp_xpath_lezhutv",
+            "name": "乐猪TV(XP)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"./getjson/乐猪影视.json"
+        },
+            {
+            "key":"快播资源",
+            "name":"快播资源",
+            "type":1,
+            "api":"http://www.kuaibozy.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+            {"key":"csp_xBPQ_TVB云播","name":"TVB云播","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
+            {"key":"csp_xBPQ_荐片","name":"🐯荐片影视 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/荐片.json"},
+            {"key": "白嫖者联盟","name": "️白嫖者联盟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./getjson/白嫖者联盟.json"},
+            {"key":"csp_XBiu_饭团秒播","name":"饭团秒播","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
+            {
+            "key" : "追剧喵",
+            "name" : "🐱追剧喵",
+            "type" : 3,
+            "api" : "csp_ZJMiao",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+            {"key":"csp_xBPQ_网飞TV","name":"网飞TV","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wangfei.tv/vodshow/id/{cateId}/page/{catePg}.html"},
+        {
+            "key" : "小熊",
+            "name" : "🐨小熊TV",
+            "type" : 3,
+            "api" : "csp_Xxys",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+            {
+            "key":"csp_DiDuan",
+            "name":"🛣低端影视",
+            "type":3,"api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+            {
+            "key" : "csp_dd5555",
+            "name" : "🎖555 影视",
+            "api" : "csp_Dy555",
+            "type" : 3,
+            "filterable" : 1,
+            "quickSearch" : 1,
+            "searchable" : 1
+        },
+            {
+            "key" : "mjxq_spider",
+            "name" : "🌏美剧星球",
+            "type" : 3,
+            "api" : "csp_Mjxq",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+            {
+            "key" : "csp_剧荒",
+            "name" : "👿剧荒",
+            "type" : 3,
+            "api" : "csp_Juhuang",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1
+        },
+        {"key":"csp_AppTT","name":"SP | 图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+        {
+            "key": "77",
+            "name": "77(爬虫)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "快看",
+            "name": "快看(爬虫)",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+            {
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "IKan",
+            "name": "爱看(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"./jar/custom_spider.jar"
+        }, 
+        {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1},
+        {
+            "key": "Zjdr",
+            "name": "追剧达人(爬虫)",
+            "type":3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"./jar/custom_spider.jar"
+        },
+        {
+            "key": "Auete",
+            "name": "Auete(爬虫)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
+        {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "哔滴影视",
+            "name": "哔滴影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bttoo",
+            "name": "两个BT(爬虫)",
+            "api":"csp_Bttoo",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./getjson/农民影视.json",
+            "jar":"./jar/cs.jar"
+        },
+        {
+            "key": "Auete",
+            "name": "Auete(爬虫)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./getjson/bili.json"
+        },
+           {
+            "key": "IQIYI",
+            "name": "爱(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+            {
+            "key": "QQ",
+            "name": "腾(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+            {
+            "key": "MGTV",
+            "name": "芒(解析)",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+            {
+            "key": "360",
+            "name": "360(解析)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条(爬虫)",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "c3722a3549d9407780e9eff2fbe4503d"
+        },
+        {
+            "key": "Upyunso",
+            "name": "云搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+            
+        },
+        {
+            "key": "AliPS",
+            "name": "盘搜(仅搜索)",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+            
+        }, 
+        {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "./alitoken.txt"},
+        {"key":"csp_Yiso","name":"🎯易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0},
+       
+        {   
+            "key": "在线直播",
+            "name": "在线直播(爬虫)",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "知识",
+            "name": "知识学堂(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx1.json"
+        },
+        {
+            "key": "儿童",
+            "name": "儿童(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx2.json"
+        },
+        {
+            "key": "小学",
+            "name": "小学(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx3.json"
+        },
+        {
+            "key": "初中",
+            "name": "初中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx4.json"
+        },
+        {
+            "key": "高中",
+            "name": "高中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx5.json"
+        }
+    ],
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","cntv","CNTV","XIGUA","letv","leshi","LS","乐视","西瓜","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
+"parses": [
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"bozrc嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name": "蓝狐","type": 1,"url":" https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url="},
+{"name":"☑无名","type":1,"url":"https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url="},
+{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+{"name":"醉仙","type": 0,"url":"https://jx.zui.cm/?url="},
+{"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
+{"name":"parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name" : "江湖1080","type" : 1,"url" : "http://jx.vipmv.co/json.php?token=123457&url="},
+{"name":"keyu解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "可遇不可求","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩","leshi","cntv","CNTV","xigua","XIGUA"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
+{"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}]
+}
