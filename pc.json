@@ -3,6 +3,22 @@
   "wallpaper": "https://tool.weetai.cn/api",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
   "sites": [ 
+       {
+	"key": "csp_XBPQ_hdmoli",
+	"name": "🍹HDmoli影院",                 
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "{ 
+        \"免嗅\":\"0\",
+        \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
+        \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+        \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", 
+        \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
+        \"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"
+       },
        {  
          "key": "csp_Xinsj",      
          "name": "🐼新视觉┃直连",      
@@ -28,24 +44,8 @@
        {"key":"csp_XBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/饭团影视.json"},
       
        {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
-       {
-	"key": "csp_XBPQ_hdmoli",
-	"name": "🍹HDmoli影院",                 
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "{ 
-      \"免嗅\":\"0\",
-     \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
-     \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-     \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", 
-     \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
-     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}-{catePg}.html\"}"},
- 
-
-         {
+       
+        {
             "key": "zy_卧龙资源",
             "name": "卧龙资源",
             "type": 1,
