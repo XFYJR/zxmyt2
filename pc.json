@@ -250,9 +250,10 @@
             {"key":"csp_xBPQ_网飞TV","name":"网飞TV","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wangfei.tv/vodshow/id/{cateId}/page/{catePg}.html"},
         
             {
-            "key" : "csp_dd5555",
+            "key" : "csp_5555",
             "name" : "🎖555 影视",
-            "api" : "csp_Dy555",
+            "api" : "csp_Ys555",
+            "m3u8ads": "hd.youyhn.com",
             "type" : 3,
             "filterable" : 1,
             "quickSearch" : 1,
@@ -303,8 +304,8 @@
             "api":"csp_IKan",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "jar":"./jar/custom_spider.jar"
+            "filterable":1
+            
         }, 
         {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1},
         {
@@ -314,8 +315,8 @@
             "api": "csp_Zjdr",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"./jar/custom_spider.jar"
+            "filterable": 1
+            
         },
         {
             "key": "Auete",
