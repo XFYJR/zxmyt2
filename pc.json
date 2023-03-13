@@ -242,10 +242,21 @@
             "searchable":1,
             "quickSearch":1
         },
-            {"key":"csp_xBPQ_TVB云播","name":"TVB云播","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
+          {      
+            "key": "csp_fantuan",      
+            "name": "🍙饭团┃直连",      
+            "type": 3,      
+            "api": "csp_Fantuan",      
+            "m3u8ads": "hd.youyhn.com",      
+            "searchable": 1,      
+            "quickSearch": 1,      
+            "filterable": 1,      
+            "ext": "https://www.fantuanhd.com"   
+         }, 
+           {"key":"csp_xBPQ_TVB云播","name":"TVB云播","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
             
             {"key": "白嫖者联盟","name": "️白嫖者联盟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./getjson/白嫖者联盟.json"},
-            {"key":"csp_XBiu_饭团秒播","name":"饭团秒播","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
+            
             
             {"key":"csp_xBPQ_网飞TV","name":"网飞TV","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wangfei.tv/vodshow/id/{cateId}/page/{catePg}.html"},
         
