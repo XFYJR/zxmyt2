@@ -3,16 +3,17 @@
   "wallpaper": "https://tool.weetai.cn/api",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
   "sites": [ 
-       { 
-  "key": "csp_Lgyy",      
-  "name": "🌀蓝光┃直连",      
-  "type": 3,
-  "api": "csp_Lgyy",      
+       {  
+  "key": "csp_Xinsj",      
+  "name": "🐼新视觉┃直连",      
+  "type": 3,      
+  "api": "csp_Xinsj",      
   "m3u8ads": "hd.youyhn.com",      
   "searchable": 1,      
   "quickSearch": 1,      
   "filterable": 1,      
-  "ext": "https://www.lgyy.tv" },
+  "ext": "https://www.6080dy3.com"}, 
+
        {"key":"csp_XBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/饭团影视.json"},
        {"key":"csp_SP360","name":"360┃官解","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
        {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
