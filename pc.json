@@ -354,7 +354,7 @@
             "filterable": 1
         },
         {
-            "key": "哔滴影视",
+            "key": "csp_Bd",
             "name": "哔滴影视(爬虫)",
             "type": 3,
             "api": "csp_Bdys01",
@@ -364,9 +364,9 @@
             "filterable": 1
         },
         {
-            "key": "Bttoo",
+            "key": "csp_Bttoo",
             "name": "两个BT(爬虫)",
-            "api":"csp_Bttoo",
+            "api":"csp_Bttwoo",
             "m3u8ads": "hd.youyhn.com",
             "type":3,
             "filterable":1,
