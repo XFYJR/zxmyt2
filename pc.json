@@ -279,7 +279,7 @@
             "searchable": 1
         },
         {
-            "key": "Lib",
+            "key": "csp_Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
             "api": "csp_Libvio",
@@ -287,7 +287,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+            "ext": "https://tv.libvio.cc/" 
+          },
         
         {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1},
         
