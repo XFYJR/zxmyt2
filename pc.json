@@ -224,7 +224,17 @@
             "filterable":0,
             "ext":"./getjson/乐猪影视.json"
         },
-            {
+         { 
+            "key": "csp_Cokemv",
+            "name": "可乐┃直连",
+            "type": 3,"api": "csp_Cokemv",
+            "m3u8ads": "hd.youyhn.com", 
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1 
+         },     
+        {
             "key":"快播资源",
             "name":"快播资源",
             "type":1,
@@ -348,6 +358,7 @@
             "name": "哔滴影视(爬虫)",
             "type": 3,
             "api": "csp_Bdys01",
+            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -356,6 +367,7 @@
             "key": "Bttoo",
             "name": "两个BT(爬虫)",
             "api":"csp_Bttoo",
+            "m3u8ads": "hd.youyhn.com",
             "type":3,
             "filterable":1,
             "quickSearch":1,
