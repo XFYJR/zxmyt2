@@ -366,16 +366,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Bili",
-            "name": "Bili(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./getjson/bili.json"
-        },
+        
            {
             "key": "IQIYI",
             "name": "爱(解析)",
