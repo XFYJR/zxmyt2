@@ -4,16 +4,26 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWEZZSlIvenhteXQyL21haW4vbGl2ZS50eHQ="]}]}],  
   "sites": [ 
        {  
-  "key": "csp_Xinsj",      
-  "name": "🐼新视觉┃直连",      
-  "type": 3,      
-  "api": "csp_Xinsj",      
-  "m3u8ads": "hd.youyhn.com",      
-  "searchable": 1,      
-  "quickSearch": 1,      
-  "filterable": 1,      
-  "ext": "https://www.6080dy3.com"}, 
-
+         "key": "csp_Xinsj",      
+         "name": "🐼新视觉┃直连",      
+         "type": 3,      
+         "api": "csp_Xinsj",      
+         "m3u8ads": "hd.youyhn.com",      
+         "searchable": 1,      
+         "quickSearch": 1,      
+         "filterable": 1,      
+         "ext": "https://www.6080dy3.com"}, 
+     {      
+      "key": "csp_Ysgc",      
+      "name": "🏭工厂┃直连",      
+      "type": 3,      
+      "api": "csp_Ysgc",     
+      "m3u8ads": "hd.youyhn.com",     
+      "searchable": 1,      
+      "quickSearch": 1,      
+      "filterable": 1,      
+      "ext": "https://www.ysgc.vip"    
+    }, 
        {"key":"csp_XBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/饭团影视.json"},
       
        {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
