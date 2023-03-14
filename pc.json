@@ -382,7 +382,7 @@
         },
            {
             "key": "IQIYI",
-            "name": "爱(解析)",
+            "name": "爱奇艺(解析)",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -391,7 +391,7 @@
         },
             {
             "key": "QQ",
-            "name": "腾(解析)",
+            "name": "腾讯视频(解析)",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -399,17 +399,17 @@
             "filterable": 1
         },
             {
-            "key": "MGTV",
-            "name": "芒(解析)",
+            "key": "Mgtv",
+            "name": "芒果视频(解析)",
             "type": 3,
-            "api": "csp_MGTV",
+            "api": "csp_Mgtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
             {
             "key": "360",
-            "name": "360(解析)",
+            "name": "360视频(解析)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
