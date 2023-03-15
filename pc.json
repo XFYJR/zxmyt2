@@ -423,16 +423,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "c3722a3549d9407780e9eff2fbe4503d"
-        },
+        {      
+          "key": "csp_Paper",      
+          "name": "📜纸条┃4K",      
+          "type": 3,      
+          "api": "csp_Paper",      
+          "searchable": 1,      
+          "quickSearch": 1,      
+          "filterable": 1,      
+          "changeable": 0,      
+          "ext": "./ali/token.txt"    
+        }, 
         {
             "key": "Upyunso",
             "name": "云搜(仅搜索)",
