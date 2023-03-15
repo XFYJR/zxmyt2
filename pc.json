@@ -72,16 +72,8 @@
             "filterable":1
         },
      {"key":"独播库","name":"独播库","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},  
-       {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "jar":"./jar/spider.jar"
-        },
+     {"key":"csp_XBPQ_乐猪TV","name":"乐猪TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/乐猪TV.json"},  
+     
         {
             "key": "csp_Lib",
             "name": "Libvio(爬虫)",
