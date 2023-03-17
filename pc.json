@@ -505,7 +505,16 @@
             "type" : 1,
             "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
-            
+            {
+             "name": "芒果解析",
+             "type": 1,
+             "url": "https://www.1920lgzy.top/json.php?url=",
+             "ext": {
+             "header": {
+             "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
             {
             "name" : "荣兴",
             "type" : 1,
