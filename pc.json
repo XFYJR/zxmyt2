@@ -94,7 +94,19 @@
        "filterable": 1,
        "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
       },
-        {
+       { 
+         "key": "csp_大明",
+         "name": "大明影视",
+         "type": 1,
+         "api": "https://ys.md214.cn/api.php/provide/vod/", 
+         "playerType": 2,
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "categories": ["大陆剧","电影","连续剧","综艺","动漫","直播"],
+         "tsads": "iqiyi.hbuioo.com"
+       },  
+      {
             "key": "csp_Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -125,7 +137,7 @@
             "quickSearch": 1,
             "filterable": 1 
          },     
-                 {
+        {
             "key" : "csp_5555",
             "name" : "🎖555 影视",
             "api" : "csp_Ys555",
@@ -135,7 +147,7 @@
             "quickSearch" : 1,
             "searchable" : 1
         },
-            {
+          {
             "key": "农民",
             "name": "农民(爬虫)",
             "type": 3,
@@ -149,7 +161,7 @@
        {"key":"csp_XBPQ_饭团影视","name":"饭团影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/饭团影视.json"},
 
        {"key": "csp_B站","name": "👨‍👩‍👦‍👦曲苑杂坛(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/qunyinghui.json"},
-               {
+          {
             "key": "zy_红牛资源",
             "name": "红牛资源",
             "type": 1,
