@@ -361,6 +361,7 @@
             "name": "奥特影视(爬虫)",
             "type": 3,
             "api": "csp_Auete",
+            "m3u8ads": "hd.youyhn.com", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
