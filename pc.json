@@ -81,7 +81,8 @@
           "quickSearch": 1,
           "filterable": 0
         },
-    {
+      {"key":"野荷塘","name":"荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/野荷塘.json"},
+       {
             "key": "csp_Yht",
             "name": "🌷荷塘影院",
             "type": 3,
