@@ -532,18 +532,27 @@
           "ext": "./token.txt"    
         }, 
         {
-            "key": "Upyunso",
+            "key": "UpYun",
             "name": "云搜(仅搜索)",
             "type": 3,
-            "api": "csp_Upyunso",
+            "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./token.txt"
         },
-        
-        {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.txt"},
-        {"key":"csp_Yiso","name":"🎯易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "./token.txt"},
+        {
+            "key": "PanSou",
+            "name": "盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./token.txt"
+        },
+        {"key":"Push","name":"📤推送(云盘/磁力)","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.txt"},
+        {"key":"csp_YiSo","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext": "./token.txt"},
        
         {   
             "key": "在线直播",
