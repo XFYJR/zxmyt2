@@ -500,7 +500,7 @@
            "name": "非凡2",
            "type": 1,
            "api": "http://www.ffzy.tv/api.php/provide/vod/",
-           "playUrl": "http://rdf2.qlg6.xyz/player/?url=",
+           "playUrl": "https://cdn.xcoo.vip/xc.php?url=",
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 0,
