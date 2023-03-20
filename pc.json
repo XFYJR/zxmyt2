@@ -418,18 +418,7 @@
             
             {"key":"csp_xBPQ_网飞TV","name":"网飞TV","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wangfei.tv/vodshow/id/{cateId}/page/{catePg}.html"},
         
-          {
-            "key": "Auete",
-            "name": "奥特影视(爬虫)",
-            "type": 3,
-            "api": "csp_Auete",
-            "m3u8ads": "hd.youyhn.com", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-        {
+           {
             "key": "LiteApple",
             "name": "小苹果(爬虫)",
             "type": 3,
