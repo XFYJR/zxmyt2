@@ -74,15 +74,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-          "key": "csp_xml",
-          "name": "非凡1",
-          "type": 1,
-          "api": "http://www.ffzy.tv/api.php/provide/vod/from/ffm3u8/",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0
-        },
+        
       {"key":"野荷塘","name":"🌷荷塘影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/野荷塘.json"},
       {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {
@@ -488,32 +480,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-           "key": "非凡",
-           "name": "非凡2",
-           "type": 1,
-           "api": "http://www.ffzy.tv/api.php/provide/vod/",
-           "playUrl": "https://ffzyplayer.com/?url=",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 0,
-           "categories": [
-           "国产动漫",
-           "国产剧",
-           "大陆综艺",
-           "动作片",
-           "喜剧片",
-           "爱情片",
-           "科幻片",
-           "恐怖片",
-           "剧情片",
-           "战争片",
-           "港台剧",
-           "日韩剧",
-           "欧美剧"
-        ]
-        },
-       
+
        {      
           "key": "csp_Paper",      
           "name": "📜纸条┃4K",      
