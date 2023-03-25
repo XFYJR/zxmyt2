@@ -532,7 +532,7 @@
           "quickSearch": 1,      
           "filterable": 1,      
           "changeable": 0,      
-          "ext": "./token.txt"    
+          "ext": "http://ali.饭太硬.ml/alitoken"    
         }, 
         {
             "key": "UpYun",
@@ -542,7 +542,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./token.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "PanSou",
@@ -552,12 +552,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./token.txt"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
-        {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.txt"},
-        {"key":"csp_YiSo","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext": "./token.txt"},
+        {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
+        {"key":"csp_YiSo","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
        
-       {"key":"Zhaozy","name":"☁️阿里 | 找资源","type":3,"api":"csp_Zhaozy","ext":"./token.txt$$$1449633246@qq.com$$$123456"},
+       {"key":"Zhaozy","name":"☁️阿里 | 找资源","type":3,"api":"csp_Zhaozy","ext":"http://ali.饭太硬.ml/alitoken$$$1449633246@qq.com$$$123456"},
        {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
