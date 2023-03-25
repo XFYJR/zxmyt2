@@ -86,7 +86,7 @@
       {"key":"野荷塘","name":"🌷荷塘影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/野荷塘.json"},
       {"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {
-      "key": "csp_xml",
+      "key": "csp_xml_量子资源站",
       "name": "量子云播",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
