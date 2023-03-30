@@ -2,7 +2,7 @@
 	"spider": "./jar/tvbox.jar",
 	"sites": [
 		{"key": "csp_XYQHiker布蕾蓝光影城","name": "布蕾蓝光影城","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/布蕾蓝光影城.json"}, 
-                
+                {"key":"csp_XBPQ_yohu","name":"yohu影院┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./getjson/yohu影院.json"},
                      {
 			"key": "量子云播",
 			"name": "量子云播",
