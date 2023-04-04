@@ -251,7 +251,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "./tok.txt"
 		},
 		{
 			"key": "YiSo",
@@ -261,7 +261,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "./tok.txt"
 		},
 		{
 			"key": "Zhaozy",
@@ -271,7 +271,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken$$$xuantie$$$123*456"
+			"ext": "./tok.txt$$$xuantie$$$123*456"
 		},
 		{
 			"key": "PanSou",
@@ -281,7 +281,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "./tok.txt"
 		},
 		{
 			"key": "UpYun",
@@ -291,7 +291,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "./tok.txt"
 		},
 		{
 			"key": "push_agent",
@@ -301,7 +301,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "http://ali.饭太硬.ml/alitoken"
+			"ext": "./tok.txt"
 		}
 	],
 	"lives": [
