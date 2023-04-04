@@ -243,66 +243,12 @@
                 "犯罪片"
          ]
         },
-		{
-			"key": "csp_Paper",
-			"name": "纸条4K",
-			"type": 3,
-			"api": "csp_Paper",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./tok.txt"
-		},
-		{
-			"key": "YiSo",
-			"name": "易搜4K",
-			"type": 3,
-			"api": "csp_YiSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./tok.txt"
-		},
-		{
-			"key": "Zhaozy",
-			"name": "找资源4K",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./tok.txt$$$xuantie$$$123*456"
-		},
-		{
-			"key": "PanSou",
-			"name": "盘搜4K",
-			"type": 3,
-			"api": "csp_PanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./tok.txt"
-		},
-		{
-			"key": "UpYun",
-			"name": "UP云搜4K",
-			"type": 3,
-			"api": "csp_UpYun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./tok.txt"
-		},
-		{
-			"key": "push_agent",
-			"name": "🍭推送",
-			"type": 3,
-			"api": "csp_Push",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./tok.txt"
-		}
+        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"}
 	],
 	"lives": [
 		{
