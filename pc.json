@@ -13,7 +13,7 @@
             "quickSearch":1,
             "filterable":1
          }, 
-        {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
+        {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
                
         {  
           "key": "csp_fantuan",      
@@ -446,41 +446,12 @@
             "filterable": 1
         },
 
-       {      
-          "key": "csp_Paper",      
-          "name": "📜纸条┃4K",      
-          "type": 3,      
-          "api": "csp_Paper",      
-          "searchable": 1,      
-          "quickSearch": 1,      
-          "filterable": 1,      
-          "changeable": 0,      
-          "ext": "http://ali.饭太硬.ml/alitoken"    
-        }, 
-        {
-            "key": "UpYun",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "PanSou",
-            "name": "盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {"key":"push_agent","name":"📤推送(云盘/磁力)","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
-        {"key":"csp_YiSo","name":"🎯易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://ali.饭太硬.ml/alitoken"},
-       
-       {"key":"Zhaozy","name":"☁️阿里 | 找资源","type":3,"api":"csp_Zhaozy","ext":"http://ali.饭太硬.ml/alitoken$$$1449633246@qq.com$$$123456"},
+       {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
        {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
