@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/tvbox.jar",
+	"spider": "./jar/tvbox.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
 	"sites": [
 		
               
@@ -247,12 +247,12 @@
                 "犯罪片"
          ]
         },
-        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
-        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
-        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
-        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar"}
+        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+        {"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+        {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+        {"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/香佬.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"}
 	],
 	"lives": [
 		{
