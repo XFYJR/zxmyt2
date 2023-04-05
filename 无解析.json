@@ -2,18 +2,8 @@
 	"spider": "./jar/tvbox.jar",
 	"sites": [
 		
-              {
-                 "key": "csp_XYQHiker布蕾蓝光影城",
-                 "name": "布蕾蓝光影城",
-                 "type": 3,
-                 "api": "csp_XYQHiker",
-                 "playUrl":"http://qqbf.bulei.cc/player/?url=",
-                 "searchable": 1,
-                 "quickSearch": 1,
-                 "filterable": 1,
-                 "ext": "./getjson/布蕾蓝光影城.json"}, 
-                
-                  {
+              
+                 {
 			"key": "红牛资源",
 			"name": "红牛资源",
 			"type": 1,
@@ -148,7 +138,8 @@
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
       {"key":"csp_XBPQ_yohu","name":"yohu影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/yohu影院.json"},    
-         {
+        {"key": "csp_XYQHiker布蕾蓝光影城","name": "布蕾蓝光影城","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./getjson/布蕾蓝光影城.json"}, 
+                   {
 			"key": "新浪云播",
 			"name": "新浪云播",
 			"type": 1,
