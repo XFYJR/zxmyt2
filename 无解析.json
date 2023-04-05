@@ -86,7 +86,7 @@
             "name": "️🥭芒果影视",
             "type": 1,
             "api": "http://anltv.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-            "playUrl":"https://jx.777jiexi.com/player/?url=",
+            
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -323,7 +323,14 @@
 		}
 	],
 	"parses": [
-		{
+		{"name": "自动嗅探","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},
+                {"name":"虾米","type": 0,"url":"https://jx.xmflv.com/?url="},
+                {"name":"OK解析","type": 0,"url":"https://okjx.cc/?url="},
+                {"name": "77解析","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
+                {"name":"诺讯","type": 0,"url":"https://www.nxflv.com/?url="},
+                {"name":"CK","type": 0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+                {"name":"ckmov","type": 0,"url":"https://www.ckmov.vip/api.php?url="},
+                {
 			"name": "Chatpgt智能",
 			"type": 3,
 			"url": "Web"
