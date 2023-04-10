@@ -5,7 +5,7 @@
              "key": "ff_非凡资源",
             "name": " ☯┃非凡资源",
             "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
