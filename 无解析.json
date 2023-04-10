@@ -6,8 +6,7 @@
             "name": " ☯┃非凡资源",
             "type": 0,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "playurl":"https://jx.json.vin/dp/?url=",
-
+            "playUrl":"https://www.itvbo.cc/flz.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
