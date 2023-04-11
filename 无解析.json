@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/zhuzige.jar;md5;a1e269296d7f8bf4b052f63a506356ad",
+	"spider": "./jar/zh.jar;md5;a1e269296d7f8bf4b052f63a506356ad",
 	"sites": [
 		{
              "key": "ff_非凡资源",
