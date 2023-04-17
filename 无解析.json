@@ -125,7 +125,43 @@
 				"电影解说"
 			]
 		},
-		{
+                  {
+			"key": "csp_SP360",
+			"name": "📺360影视┃SP",
+			"type": 3,
+			"api": "csp_SP360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		  },
+                  {
+			"key": "teng",
+			"name": "腾讯视频┃SP",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		   },
+		    {
+			"key": "ai",
+			"name": "爱奇艺┃SP",
+			"type": 3,
+			"api": "csp_IQIYI",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		  },
+		   {
+			"key": "MGT",
+			"name": "芒果TV┃SP",
+			"type": 3,
+			"api": "csp_Mgtv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+        {
             "key": "明帝",
             "name": "️🤴明帝影视",
             "type": 1,
