@@ -1,7 +1,18 @@
 {
 	"spider": "./jar/zh.jar;md5;a1e269296d7f8bf4b052f63a506356ad",
 	"sites": [
-		{
+     {
+      "key": "csp_appys_363",
+      "name": "363",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lzrjk.hao363.com//api.php/v1.vod"
+    },       
+    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json","jar":"./jar/香.jar;md5;bc30246bf372aed096d2e4b072a434b0"},
+          {
              "key": "ff_非凡资源",
             "name": " ☯┃非凡资源",
             "type": 0,
