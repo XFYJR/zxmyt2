@@ -957,7 +957,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./alitoken.txt",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
     },
     {
       "key": "易搜",
@@ -968,7 +968,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./alitoken.txt",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
     },
     {
       "key": "盤搜",
@@ -979,7 +979,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./alitoken.txt",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
     },
     {
       "key": "UP雲搜",
@@ -990,7 +990,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./alitoken.txt",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
     },
     {
       "key": "找資源",
@@ -1001,7 +1001,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./alitoken.txt$$$xuantie$$$123*456",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
     },
     {
       "key": "push_agent",
@@ -1012,17 +1012,10 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./alitoken.txt",
-      "jar":"https://ghproxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
+      "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
      }
 	],
-	"lives": [
-		{
-			"name": "live",
-			"type": 0,
-			"epg": "https://epg.112114.xyz/",
-			"url": "http://我不是.肥猫.love:63/TV/tvzb.txt"
-		}
-	],
+	
 	"parses": [
 		{"name": "解析聚合","type": 3, "url": "Demo"},
                 {"name": "Web聚合", "type": 3, "url": "Web"},
