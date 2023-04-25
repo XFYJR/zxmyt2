@@ -1015,7 +1015,13 @@
       "jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/fm0406.jar?raw=true;a3a0ad16814a815fdad26b236cdd5a05"
      }
 	],
-	
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/XFYJR/zxmyt2/main/FongMi.txt",
+		    "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 	"parses": [
 		{"name": "解析聚合","type": 3, "url": "Demo"},
                 {"name": "Web聚合", "type": 3, "url": "Web"},
