@@ -1027,8 +1027,9 @@
                 {"name": "Web聚合", "type": 3, "url": "Web"},
                 {"name":"Json并发","type":2,"url":"Parallel"},
                 {"name":"Json轮询","type":2,"url":"Sequence"},
-                
-                {"name": "自动嗅探","type": 3,"url": "Web","header":{"User-Agent":"Mozilla/5.0"}},
+                {"name":"综合","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+                {"name": "自动嗅探","type": 3,"url": "Web","header":{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"}},
+
                 {"name":"虾米","type": 0,"url":"https://jx.xmflv.com/?url="},
                 {"name":"OK解析","type": 0,"url":"https://okjx.cc/?url="},
                 {"name": "77解析","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
@@ -1038,8 +1039,8 @@
                 {"name":"诺讯","type": 0,"url":"https://www.nxflv.com/?url="},
                 {"name":"CK","type": 0,"url":"https://www.ckplayer.vip/jiexi/?url="},
                 {"name":"ckmov","type": 0,"url":"https://www.ckmov.vip/api.php?url="},
-		        {"name":"爱酷解析","type": 0,"url":"https://api.json.icu/api/?key=779cgfg458296cfd54dfdf571aa&url="},
-	            {"name":"纯净1","url":"https://im1907.top/?jx=","mobile":1},
+		{"name":"爱酷解析","type": 0,"url":"https://api.json.icu/api/?key=779cgfg458296cfd54dfdf571aa&url="},
+	        {"name":"纯净1","url":"https://im1907.top/?jx=","mobile":1},
                 {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
                 {"name":"爱豆","url":"https://jx.aidouer.net/?url=","mobile":1},
                 {"name":"BL","url":"https://vip.bljiex.com/?v=","mobile":0},
@@ -1099,7 +1100,8 @@
 			"type": 0,
 			"url": "https://www.yemu.xyz/?url="
 		},
-		{
+		{"name": "智能探测QL","type": 0,"url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url="},
+                {
 			"name": "智能探测CM",
 			"type": 0,
 			"url": "https://jxdp.codermart.net/?url="
