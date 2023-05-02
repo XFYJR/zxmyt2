@@ -844,15 +844,6 @@
 				
 			]
 		},
-		{
-			"key": "极速资源bd",
-			"name": "极速资源bd",
-			"type": 1,
-			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 		
 		{
             "key": "zy_卧龙资源",
