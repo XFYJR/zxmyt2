@@ -910,6 +910,9 @@
 	"parses": [
                 {"name":"综合","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
                 {"name": "自动嗅探","type": 3,"url": "Web","header":{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"}},
+                {"name":"布蕾","type":0,"url":"http://qqbf.bulei.cc/player/?url="},
+                {"name":"布蕾1","type":0,"url":"https://bf.bulei.cc/player/?url="},
+                {"name":"布蕾2","type":0,"url":"https://mgtv.bulei.cc/player/?url="},
                 
 		{
 			"name": "Chatpgt智能",
