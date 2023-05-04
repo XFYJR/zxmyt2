@@ -13,7 +13,34 @@
             "filterable": 1,
             "ext": "./getjson/厂长影视(XYQHiker).json"
         },
-       {
+          {
+			"key": "新浪云播",
+			"name": "新浪云播",
+			"type": 1,
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"国产剧",
+                                "动作片",
+				"爱情片",
+				"科幻片",
+				"战争片",
+				"剧情片",
+				"恐怖片",
+				"喜剧片",
+				"港澳剧",
+				"台湾剧",
+				"欧美剧",
+				"动漫电影",
+				"韩剧",
+				"日剧",
+				"泰剧"
+				
+			]
+		     }, 
+                     {
 			"key": "光速云播",
 			"name": "光速云播",
 			"type": 1,
@@ -541,33 +568,7 @@
         
       {"key":"csp_XBPQ_yohu","name":"yohu影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/yohu影院.json"},    
        
-                   {
-			"key": "新浪云播",
-			"name": "新浪云播",
-			"type": 1,
-			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"国产剧",
-                                "动作片",
-				"爱情片",
-				"科幻片",
-				"战争片",
-				"剧情片",
-				"恐怖片",
-				"喜剧片",
-				"港澳剧",
-				"台湾剧",
-				"欧美剧",
-				"动漫电影",
-				"韩剧",
-				"日剧",
-				"泰剧"
-				
-			]
-		},
+                   
 		
 		        {
             "key": "明帝",
