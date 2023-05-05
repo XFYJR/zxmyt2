@@ -134,8 +134,11 @@
 				"动漫电影"
 			]
 		},  
+    {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+    {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"两个BT","name":"两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"播放数组":"<div class=\"paly_list_btn\">&&</div>","线路数组": "在线播放&&</div>","线路标题": "<span>&&</span>","免嗅":"0","分类":"电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwo.net/{cateId}/page/{catePg}"}},
-    {
+            {
 			"key": "新浪云播",
 			"name": "新浪云播",
 			"type": 1,
@@ -163,7 +166,7 @@
 			]
 		     }, 
     {"key":"LibVio","name":"🍒LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
-    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json","jar":"./jar/香.jar;md5;5b8e63c92cd2483dfc012db13ecc3622"},
+    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json"},
         {"key":"布雷视频","name":"布雷视频","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$login$$$123*456$$$123*456"}, 
            {
 			"key": "csp_SP33",
