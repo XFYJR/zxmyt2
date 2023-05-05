@@ -13,7 +13,7 @@
             "filterable": 1,
             "ext": "./getjson/厂长影视(XYQHiker).json"
         },
-          {"key":"csp_Paper","name":"📜纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./token.txt"},
+         
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
   {
       "key": "盘搜索",
@@ -163,7 +163,7 @@
 			]
 		     }, 
     {"key":"LibVio","name":"🍒LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
-    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json","jar":"./jar/香.jar;md5;bc30246bf372aed096d2e4b072a434b0"},
+    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json","jar":"./jar/香.jar;md5;5b8e63c92cd2483dfc012db13ecc3622"},
         {"key":"布雷视频","name":"布雷视频","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$login$$$123*456$$$123*456"}, 
            {
 			"key": "csp_SP33",
