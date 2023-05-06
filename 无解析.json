@@ -15,7 +15,7 @@
         },
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
 {"key":"Zhaozy","name":"阿里找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt$$$xuantie$$$123*456"},
-{"key":"YiSo","name":"阿里易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
+{"key":"YiSo","name":"阿里易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/XFYJR/zxmyt2/main/token.txt"},
 {"key":"UpYun","name":"阿里Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
 {"key":"七夜","name":"阿里七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":0,"ext": "./token.txt"},
 {"key":"PanSou","name":"阿里盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
