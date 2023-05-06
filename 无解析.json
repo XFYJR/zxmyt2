@@ -95,16 +95,7 @@
                 "其他剧"
             ]
         },
-      {
-            "key": "csp_apple",
-            "name": "🍎苹果┃App",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      
              {
 			"key": "红牛资源",
 			"name": "红牛资源",
@@ -601,7 +592,17 @@
             "filterable": 1,
             "categories":["连续剧","电影","综艺","动漫","直播"]
         },
-		{
+        {
+            "key": "csp_apple",
+            "name": "🍎苹果┃App",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "zy_卧龙资源",
             "name": "卧龙资源",
             "type": 1,
