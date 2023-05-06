@@ -20,8 +20,7 @@
 {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":0,"ext": "./token.txt"},
 {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
 {"key": "盘搜索","name": "盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"ext": "./token.txt"},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.txt"},
-
+{"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json"},
                      {
 			"key": "光速云播",
 			"name": "光速云播",
@@ -147,7 +146,7 @@
 			]
 		     }, 
     {"key":"LibVio","name":"🍒LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
-    {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json"},
+    
         {"key":"布雷视频","name":"布雷视频","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$login$$$123*456$$$123*456"}, 
            {
 			"key": "csp_SP33",
@@ -635,8 +634,8 @@
                 "悬疑片",
                 "犯罪片"
          ]
-        }
-
+        },
+  {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.txt"}
 	],
 	"lives": [{
 		    "name": "live",
