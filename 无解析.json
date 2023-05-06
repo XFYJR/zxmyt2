@@ -19,7 +19,7 @@
 {"key":"UpYun","name":"阿里Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
 {"key":"七夜","name":"阿里七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":0,"ext": "./token.txt"},
 {"key":"PanSou","name":"阿里盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
-{"key": "盘搜索","name": "阿里盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"ext": "./token.txt"},
+{"key": "盘搜索","name": "阿里盘搜索┃4K","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"ext": "./token.txt"},
 {"key": "csp_XYQBiu_磁力熊","name": "磁力熊","type": 3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/磁力熊.json"},
                      {
 			"key": "光速云播",
