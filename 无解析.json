@@ -14,11 +14,11 @@
             "ext": "./getjson/厂长影视(XYQHiker).json"
         },
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
-        {"key":"csp_Yisou","name":"阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
-        {"key":"csp_Zhaozy","name":"阿里找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt$$$xuantie$$$123*456","jar":"./jar/xyq.jar;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
-        {"key":"csp_AliPS","name":"阿里喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
-        {"key":"csp_Upyunso","name":"阿里UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
+        {"key":"csp_Yisou","name":"阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/xyq.jar?raw=true;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
+        {"key":"csp_Zhaozy","name":"阿里找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt$$$xuantie$$$123*456","jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/xyq.jar?raw=true;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
+        {"key":"csp_AliPS","name":"阿里喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/xyq.jar?raw=true;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
+        {"key":"csp_Upyunso","name":"阿里UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/xyq.jar?raw=true;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://gh-proxy.com/https://github.com/XFYJR/zxmyt2/blob/main/jar/xyq.jar?raw=true;md5;b7b24dcb47d2b8df9c368ae589cdc1ce"},
 
 //{"key":"Zhaozy","name":"阿里找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt$$$xuantie$$$123*456"},
 //{"key":"YiSo","name":"阿里易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
