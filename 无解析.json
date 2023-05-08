@@ -19,7 +19,11 @@
         {"key":"csp_AliPS","name":"阿里喵狸盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
         {"key":"csp_Upyunso","name":"阿里UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
-
+        
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/DOVX搜索.json","jar":"./jar/xyq.jar"},
+        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(XYQ)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/云盘分享.json","jar":"./jar/xyq.jar"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/盘搜索.json","jar":"./jar/xyq.jar"},
+        {"key": "csp_XYQHiker_土狗搜索","name":"📀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/土狗搜索.json","jar":"./jar/xyq.jar"},
 //{"key":"Zhaozy","name":"阿里找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt$$$xuantie$$$123*456"},
 //{"key":"YiSo","name":"阿里易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
 //{"key":"UpYun","name":"阿里Up搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "./token.txt"},
