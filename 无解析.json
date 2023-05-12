@@ -25,7 +25,8 @@
             "filterable": 1,
             "ext": "./getjson/厂长影视(XYQHiker).json"
         },
-   {"key":"csp_看看","name":"看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/看看剧.json"},
+{"key":"csp_XBPQ_一龙影视","name":"一龙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$5","分类url":"http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}},
+{"key":"csp_看看","name":"看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./getjson/看看剧.json"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
         {"key":"csp_Yisou","name":"阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
         {"key":"csp_Zhaozy","name":"阿里找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt$$$xuantie$$$123*456","jar":"./jar/xyq.jar"},
